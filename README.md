@@ -46,6 +46,3 @@ Second chart SIG is original signal.
 Other charts are processing steps.
 Inline-style: 
 ![alt text](https://github.com/viliwonka/sample-finder/blob/master/images/chart_5.PNG "Substeps")
-
-
-[todo]
